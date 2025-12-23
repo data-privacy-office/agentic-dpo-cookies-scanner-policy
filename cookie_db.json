@@ -1,0 +1,227 @@
+{
+  "sid": {
+    "category": "Necessary",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "ARRAffinity": {
+    "category": "Necessary",
+    "provider": "Windows Azure",
+    "description": "This cookie is set by websites run on the Windows Azure cloud platform. It is used for load balancing to make sure the visitor page requests are routed to the same server in any browsing session."
+  },
+  "ARRAffinitySameSite": {
+    "category": "Necessary",
+    "provider": "Windows Azure",
+    "description": "Used to distribute traffic to the website on several servers in order to optimize response times."
+  },
+  "CookieConsent": {
+    "category": "Necessary",
+    "provider": "Usercentrics A/S",
+    "description": "Stores the user’s cookie consent state for the current domain, ensuring that cookie preferences are remembered and applied on future visits."
+  },
+  "_ga": {
+    "category": "Analytics",
+    "provider": "Google LLC",
+    "description": "Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions."
+  },
+  "__cf_bm": {
+    "category": "Necessary",
+    "provider": "Cloudflare, Inc.",
+    "description": "The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption."
+  },
+  "cf_clearance": {
+    "category": "Necessary",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "cookieyes-consent": {
+    "category": "Necessary",
+    "provider": "Unknown",
+    "description": "CookieYes sets this cookie to remember users’ consent preferences so that their preferences are respected on their subsequent visits to this site."
+  },
+  "JSESSIONID": {
+    "category": "Necessary",
+    "provider": "Unknown",
+    "description": "General purpose platform session cookie, used by sites with JavaServer Pages (JSP). The cookie is usually used to maintain an anonymous user session by the server."
+  },
+  "lang": {
+    "category": "Preferences",
+    "provider": "Unknown",
+    "description": "Session-based cookie that remembers the user's selected language version of a website."
+  },
+  "bcookie": {
+    "category": "Analytics",
+    "provider": "LinkedIn Ireland Unlimited Company",
+    "description": "This is a Microsoft MSN 1st party cookie for sharing the content of the website via social media."
+  },
+  "bscookie": {
+    "category": "Marketing",
+    "provider": "LinkedIn Ireland Unlimited Company",
+    "description": "Used by the social networking service, LinkedIn, for tracking the use of embedded services."
+  },
+  "lidc": {
+    "category": "Preferences",
+    "provider": "LinkedIn Ireland Unlimited Company",
+    "description": "Maintains session routing for reliable LinkedIn service performance."
+  },
+  "li_gc": {
+    "category": "Preferences",
+    "provider": "LinkedIn Ireland Unlimited Company",
+    "description": "Stores user consent preferences for LinkedIn cookies to comply with privacy regulations."
+  },
+  "_pxvid": {
+    "category": "Uncategorized",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "pxcts": {
+    "category": "Uncategorized",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "_px3": {
+    "category": "Uncategorized",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "demdex": {
+    "category": "Marketing",
+    "provider": "Adobe Audience Manager, Adobe Experience Platform",
+    "description": "Audience Manager sets this cookie to assign a unique ID to a site visitor. The demdex cookie helps Audience Manger perform basic functions such as visitor identification, ID synchronization, segmentation, modeling, reporting, etc."
+  },
+  "test_cookie": {
+    "category": "Marketing",
+    "provider": "Google Advertising Products",
+    "description": "Used to check if the user's browser supports cookies"
+  },
+  "_uetsid": {
+    "category": "Marketing",
+    "provider": "Microsoft Corporation",
+    "description": "This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site."
+  },
+  "_uetvid": {
+    "category": "Marketing",
+    "provider": "Microsoft Corporation",
+    "description": "Used by Microsoft Advertising to store a unique, anonymized visitor ID to personalize marketing."
+  },
+  "s_cc": {
+    "category": "Analytics",
+    "provider": "Unknown",
+    "description": "Adobe Site Catalyst cookie, determines whether cookies are enabled in the browser."
+  },
+  "MUID": {
+    "category": "Analytics",
+    "provider": "Microsoft Corporation",
+    "description": "Microsoft User Identifier tracking cookie used by Bing Ads. It can be set by embedded microsoft scripts. Widely believed to sync across many different Microsoft domains, allowing user tracking."
+  },
+  "li_sugr": {
+    "category": "Marketing",
+    "provider": "Unknown",
+    "description": "Used by LinkedIn to make a probabilistic match of a user's identity outside the Designated Countries"
+  },
+  "UserMatchHistory": {
+    "category": "Marketing",
+    "provider": "LinkedIn Ireland Unlimited Company",
+    "description": "Contains a unique identifier used by LinkedIn to determine that two distinct hits belong to the same user across browsing sessions."
+  },
+  "AnalyticsSyncHistory": {
+    "category": "Marketing",
+    "provider": "LinkedIn Ireland Unlimited Company",
+    "description": "Used by LinkedIn to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries"
+  },
+  "_gcl_au": {
+    "category": "Marketing",
+    "provider": "Google Advertising Products",
+    "description": "Used by Google AdSense to understand user interaction with the website by generating analytical data."
+  },
+  "guid": {
+    "category": "Uncategorized",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "bh": {
+    "category": "Analytics",
+    "provider": "Yandex",
+    "description": "Used by Yandex.Metrica to store browser or session identifiers for collecting aggregated visitor statistics, analyzing site usage patterns, and enabling traffic analysis across sessions."
+  },
+  "IDE": {
+    "category": "Marketing",
+    "provider": "Google Advertising Products",
+    "description": "Used by Google's DoubleClick to serve targeted advertisements that are relevant to users across the web. Targeted advertisements may be displayed to users based on previous visits to a website. These cookies measure the conversion rate of ads presented to the user."
+  },
+  "dpm": {
+    "category": "Marketing",
+    "provider": "Adobe Audience Manager, Adobe Experience Platform",
+    "description": "Adobe Audience Manager - data management platform uses this cookie to record information around synchronization of IDs."
+  },
+  "MR": {
+    "category": "Analytics",
+    "provider": "Microsoft Corporation",
+    "description": "Used by Microsoft Clarity to indicate whether to refresh MUID."
+  },
+  "_GRECAPTCHA": {
+    "category": "Necessary",
+    "provider": "Google LLC",
+    "description": "Used by Google reCaptcha for risk analysis"
+  },
+  "_lfa": {
+    "category": "Analytics",
+    "provider": "Dealfront",
+    "description": "Used by Leadfeeder to collect behavioral data of all website visitors. This includes: pages viewed, visitor source and time spent on the site."
+  },
+  "_gid": {
+    "category": "Analytics",
+    "provider": "Google LLC",
+    "description": "Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions."
+  },
+  "_clck": {
+    "category": "Analytics",
+    "provider": "Microsoft Corporation",
+    "description": "Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID."
+  },
+  "_clsk": {
+    "category": "Analytics",
+    "provider": "Microsoft Corporation",
+    "description": "Connects multiple page views by a user into a single Clarity session recording."
+  },
+  "__hstc": {
+    "category": "Analytics",
+    "provider": "HubSpot",
+    "description": "This cookie name is associated with websites built on the HubSpot platform. This is the main cookie for tracking visitors. It contains the domain, utk, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session)."
+  },
+  "hubspotutk": {
+    "category": "Analytics",
+    "provider": "HubSpot",
+    "description": "This cookie name is associated with websites built on the HubSpot platform. This cookie is used to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when deduplicating contacts."
+  },
+  "__hssrc": {
+    "category": "Analytics",
+    "provider": "HubSpot",
+    "description": "This cookie name is associated with websites built on the HubSpot platform. Whenever HubSpot changes the session cookie, this cookie is also set to determine if the visitor has restarted their browser. If this cookie does not exist when HubSpot manages cookies, it is considered a new session."
+  },
+  "__hssc": {
+    "category": "Analytics",
+    "provider": "HubSpot",
+    "description": "This cookie name is associated with websites built on the HubSpot platform. This cookie keeps track of sessions. This is used to determine if HubSpot should increment the session number and timestamps in the __hstc cookie. It contains the domain, viewCount (increments each pageView in a session), and session start timestamp."
+  },
+  "_cfuvid": {
+    "category": "Necessary",
+    "provider": "Cloudflare, Inc.",
+    "description": "Used by Cloudflare WAF to distinguish individual users who share the same IP address and apply rate limits"
+  },
+  "OptanonAlertBoxClosed": {
+    "category": "Uncategorized",
+    "provider": "Unknown",
+    "description": "No description available"
+  },
+  "OptanonConsent": {
+    "category": "Preferences",
+    "provider": "Unknown",
+    "description": "Contain the consent status of a visitor is indicated using the first party OptanonConsent cookie."
+  },
+  "_fbp": {
+    "category": "Marketing",
+    "provider": "Meta Platforms",
+    "description": "Facebook Pixel advertising first-party cookie. Used by Facebook to track visits across websites to deliver a series of advertisement products such as real time bidding from third party advertisers."
+  }
+}

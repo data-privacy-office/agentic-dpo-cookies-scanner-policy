@@ -1,0 +1,22 @@
+# --- Windows мусор (так как вы на Windows) ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Настройки редактора VS Code ---
+.vscode/
+*.code-workspace
+# Игнорируем ВСЕ папки виртуальных окружений
+venv/
+venv311/
+venv311-py311/
+.venv/
+
+# Игнорируем кэш и браузеры (они есть на скрине)
+__pycache__/
+.playwright_browsers/
+.devcontainer/
+
+# Игнорируем системные файлы
+.DS_Store
